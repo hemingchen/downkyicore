@@ -33,7 +33,7 @@ public class ViewMyFavoritesViewModel : ViewModelBase
     private long mid = -1;
 
     // 每页视频数量，暂时在此写死，以后在设置中增加选项
-    private readonly int VideoNumberInPage = 20;
+    private readonly int VideoNumberInPage = 100;
 
     #region 页面属性申明
 
